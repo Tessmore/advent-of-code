@@ -1,0 +1,18 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "description": "Advent of code day 7, calculate the weight of a tree",
+  "main": "part1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AoC",
+    "tree"
+  ],
+  "author": "Fabiën",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.14"
+  }
+}

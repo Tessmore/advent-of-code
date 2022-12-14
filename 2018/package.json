@@ -1,0 +1,10 @@
+{
+  "name": "advent2018",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "fast-levenshtein": "^2.0.6",
+    "lodash": "^4.17.14"
+  }
+}
