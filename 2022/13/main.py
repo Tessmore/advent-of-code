@@ -57,4 +57,4 @@ temp = sorted(all, key=cmp_to_key(comparePairs))
 pos1 = temp.index(custom[0]) + 1
 pos2 = temp.index(custom[1]) + 1
 
-print("Signal", pos1*pos2)
+print("Signal", pos1 * pos2)
