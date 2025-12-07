@@ -6,7 +6,13 @@
 go mod init tessmore.nl/day-<num>
 ```
 
-Usage:
+Initial script:
+
+```
+touch main.go
+```
+
+- Usage:
 
 ```
 cat input.txt | go run .
